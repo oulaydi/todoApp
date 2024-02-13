@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 ```sh
 git clone https://github.com/oulaydi/todoApp.git
-cd todo-app
+cd todoApp/
 ```
 
 ### 2. Install Dependencies
